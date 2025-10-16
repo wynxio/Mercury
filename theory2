@@ -1,0 +1,16 @@
+How browser understand Javascript
+Earlier days Browser has a javscript engine/javascript runtime
+
+Google Chrome - V8
+Firefox - SpiderMonkey
+Old Edge - Chakra
+New Edge - V8
+Opera - V8
+
+NodeJS - Javascript Run time - we can execute javascript without the help of browser
+ Google Chrome - V8  - Seperate - Node Js
+ We can run javascript without browser by using Node js
+
+NPM - Node Package Manager
+It come with Node js
+

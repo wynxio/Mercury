@@ -1,0 +1,53 @@
+Javascript
+    High Level Languages- languages which are easy for human being to read and understand
+    Interpreted Language
+
+
+Computer
+    Binary Language / Machine Code/ Machine Language
+    0 and 1
+
+    
+Program/Code 
+    High Level Language
+
+    Interpreter/Compiler 
+    Interpretation / Compilation
+
+    Machine Code 
+
+
+Interpretation Example Javascript
+Compilation Example C C++
+
+
+Compilation
+
+dfdf
+s
+fs error memory
+forsfdsf
+forsfdsf error
+sdf
+
+2 error p- resolve
+translate entire program , show error at once 
+if no error , run the program after checking every line
+slower initially . faster after compilation
+
+
+Interpreter
+
+dfdf line  by line check -run
+s no error run
+fs error memory - error . so stop the program. showing the error
+forsfdsf
+forsfdsf error
+sdf
+
+2 error p- resolve
+translate entire program , show error at once 
+if no error , run the program after checking every line
+faster
+
+
